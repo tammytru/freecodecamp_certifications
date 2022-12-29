@@ -1,5 +1,6 @@
 {
 	"author": "Tammy Truong",
+  "description": "FreeCodeCamp source code for Backend Development & APIs-Managing Packages with NPM course.",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
