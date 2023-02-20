@@ -1,6 +1,10 @@
 {
 	"author": "Tammy Truong",
 	"name": "fcc-learn-npm-package-json",
+	"description": "freeCodeCamp managing packages with npm",
+	"keywords": ["freecodecamp", "packages", "npm"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
